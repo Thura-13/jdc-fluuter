@@ -41,3 +41,22 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/App.framework
+ios/Flutter/engine/
+
+# Android
+.android/
+app/*.iml
+.gradle/
+local.properties
+
+# Web
+.dart_tool/
+.web/
+build/
